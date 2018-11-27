@@ -3,6 +3,8 @@
 ## Process:
 gamma p->pi^+pi^-K^+K^- p
 
+phi is identified by fitting K+K- in each 50 MeV bin of M(pipiKK) spectrum.
+
 ## Root file:
 e.g. tree_pippimkpkm__B4_030274.root
 
